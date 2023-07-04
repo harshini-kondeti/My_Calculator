@@ -1,18 +1,15 @@
 body{
-    background-image:url('https://img.freepik.com/premium-vector/hand-drawn-mathematics-doodle-set-background-with-blue-lettering_160308-1713.jpg');
+    background-image:url('https://previews.123rf.com/images/cherezoff/cherezoff1801/cherezoff180101179/94363168-abstract-math-number-background-black-and-white-colors-random-sign-flying.jpg');
     background-size: 100%;
    
     
 }
 h1{
     text-align: center;
-    text-decoration: underline;
-    text-decoration-color: rgb(255, 22, 22);
      font-family:"Rubik Iso",serif;
-     text-shadow: 1px 2px rgb(240, 218, 17);
      font-size: 40px;
     font-weight: 300;
-    color: rgb(0, 0, 0);
+    color: white;
 }
 .main{
     text-align: center;

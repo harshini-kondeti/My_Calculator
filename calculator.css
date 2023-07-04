@@ -1,5 +1,5 @@
 body{
-    background-image:url('https://pngtree.com/free-backgrounds-photos/mathematics');
+    background-image:url('https://img.freepik.com/premium-vector/hand-drawn-mathematics-doodle-set-background-with-blue-lettering_160308-1713.jpg');
     background-size: 100%;
    
     
@@ -37,16 +37,17 @@ h1{
  height:70px;
  width:100px;
  border-radius:30px;
- background-color:rgb(67, 63, 63);
- color:white;
- font-size: larger;
- box-shadow: 2px 2px 2px black;
-}
-.btn:hover{
     background-color: beige;
     color:black;
     font-size: larger;
     box-shadow: 2px 2px 2px black;
+}
+.btn:hover{
+background-color:rgb(67, 63, 63);
+ color:white;
+ font-size: larger;
+ box-shadow: 2px 2px 2px black;
+    
 }
 .line{
   padding:7px;

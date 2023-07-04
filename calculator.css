@@ -6,10 +6,10 @@ body{
 }
 h1{
     text-align: center;
-     font-family: "Times New Roman", Times, serif;
+     font-family: "Georgia", serif;
      font-size: 40px;
     font-weight: bold;
-    color: #0000CD;
+    color: #ff0000;
 }
 .main{
     text-align: center;

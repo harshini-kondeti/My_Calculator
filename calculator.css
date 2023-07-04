@@ -6,9 +6,9 @@ body{
 }
 h1{
     text-align: center;
-     font-family:"Rubik Iso",serif;
+     font-family: "Times New Roman", Times, serif;
      font-size: 40px;
-    font-weight: 300;
+    font-weight: bold;
     color: white;
 }
 .main{

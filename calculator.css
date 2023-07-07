@@ -64,31 +64,27 @@ h1{
     height: 60px;
     color:aquamarine;  
 }
-
 @media (max-width:441px){
- body{
-   background-size: auto;
- }
- h1{
-   font-size: 30px;
- }
- .btn{
-    height: 35px;
-    width:40px;
-    font-size: small;
-    box-shadow: 1px 1px 1px black;
- }
- .line{
-     padding: 3px;
- }
- #output{
-   height: 25px;
-   width:120px;
-   padding: 5px;
-   border-radius: 20px;
-   border: 2px solid black;
- }
+    body{
+        background-size: auto;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .btn{
+        height: 35px;
+        width:40px;
+        font-size: small;
+        box-shadow: 1px 1px 1px black;
+    }
+    .line{
+        padding: 3px;
+    }
+    #output{
+        height: 25px;
+        width:120px;
+        padding: 5px;
+        border-radius: 20px;
+        border: 2px solid black;
+    }
 }
-
-
-
